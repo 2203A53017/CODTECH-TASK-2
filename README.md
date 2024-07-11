@@ -8,6 +8,10 @@ Duration : JUNE 15,2024 TO AUGUST 15,2024
 
 Mentor : N. Santhosh kumar
 
+/ * Everything will be in the video presentation , download the video and verify the video * / 
+
+
+
 Overview of the project
 
 Nessus is a widely used vulnerability scanner designed for identifying and assessing security vulnerabilities in web applications, networks, and systems. Here's an overview of using Nessus for web application penetration testing:
